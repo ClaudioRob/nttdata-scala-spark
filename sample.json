@@ -1,0 +1,8 @@
+{"grouping":"group_1", "value":5, "sub_group": {"name": "name_2", "function": "make"}, "clients": ["clara", "maria", "fernando"]}
+{"grouping":"group_1", "value":6, "sub_group": {"name": "name_1", "function": "do"}, "clients": ["mateus", "maria"]}
+{"grouping":"group_3", "value":7, "sub_group": {"name": "name_1", "function": "do"}, "clients": ["joao", "maria"]}
+{"grouping":"group_2", "value":3, "sub_group": {"name": "name_2", "function": "send"}, "clients": ["joao", "maria", "fernando"]}
+{"grouping":"group_4", "value":2, "sub_group": {"name": "name_3", "function": "do"}, "clients": ["pedro"]}
+{"grouping":"group_1", "value":1, "sub_group": {"name": "name_3", "function": "make"}, "clients": ["judas", "franciso"]}
+{"grouping":"group_2", "value":2, "sub_group": {"name": "name_4", "function": "send"}, "clients": ["mickael"]}
+{"grouping":"group_3", "value":3, "sub_group": {"name": "name_2", "function": "receive"}, "clients": ["julia"]}
